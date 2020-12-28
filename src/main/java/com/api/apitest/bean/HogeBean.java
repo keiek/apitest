@@ -1,4 +1,4 @@
-package com.api.apitest.controller;
+package com.api.apitest.bean;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
