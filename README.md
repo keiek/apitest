@@ -36,4 +36,5 @@
     - Lombokもインストールが必要なのに気づかなくてハマった。（ビルドが通らない）
 - Gitのアカウントの切り替え方法が分からなかった
   - Windowsの「資格情報マネージャ＞Windows 資格情報＞Git」の情報を削除し、再度ログインすればOK
-
+- Herokuへのデプロイ時に、system.propertiesファイルでJavaのバージョンを明示的に指定しないとエラーが発生した
+  - https://test34589765.herokuapp.com/?hoge=System&fuga=aaa
